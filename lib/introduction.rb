@@ -1,2 +1,2 @@
-def introduction(NAME)
+def introduction(name)
 end
